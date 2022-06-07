@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: blue;
+    padding: 2rem 1rem;
+    color: #fff;
+    text-align: center;
+}
+
+table {
+    border: solid black;
+    margin: 1rem auto;
+}
+
+tr, th, td{
+    border: solid 1px black;
+}
+
+td input {
+    border: none;
+}
+
+button{
+    background-color: aqua;
+    margin: 1rem 45%;
+    padding: 1rem, 1rem;
+}
+
+form p {
+    text-align: center;
+}
